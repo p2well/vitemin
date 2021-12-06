@@ -1,2 +1,3 @@
-# vitemin
-:pill: Energetic Vue3 Vite starter template
+# Vitemin
+
+:pill: Energetic Vite Vue3 Starter Template
